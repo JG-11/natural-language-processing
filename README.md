@@ -10,4 +10,4 @@ From my first steps in NLP, understanding lexical resources, processing techniqu
 
 ### Enjoy it!
 
-<img src="https://res.cloudinary.com/dycgim2yx/image/upload/v1601079518/GitHub/NLP/nltk_az0mbx.png" title="Source: https://medium.com/100daysofmlcode/day-40-of-100daysofml-edfcef9a161e">
+<img src="https://res.cloudinary.com/dycgim2yx/image/upload/v1601079518/GitHub/NLP/nltk_az0mbx.png" title="Source: https://medium.com/100daysofmlcode/day-40-of-100daysofml-edfcef9a161e" width='180' height='195'>
